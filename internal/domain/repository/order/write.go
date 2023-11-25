@@ -1,8 +1,8 @@
 package order
 
 import (
+	"github/braip.com/internal/domain/entity"
 	"gorm.io/gorm"
-	"orders/internal/domain/entity"
 )
 
 type WriteRepository struct {

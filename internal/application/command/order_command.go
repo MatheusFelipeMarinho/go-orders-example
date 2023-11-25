@@ -1,8 +1,8 @@
 package command
 
 import (
-	"orders/internal/domain/entity"
-	"orders/internal/domain/repository/order"
+	"github/braip.com/internal/domain/entity"
+	"github/braip.com/internal/domain/repository/order"
 )
 
 type CreateOrderCommand struct {

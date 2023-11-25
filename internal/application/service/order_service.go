@@ -3,9 +3,9 @@ package service
 import (
 	"github.com/asaskevich/EventBus"
 	"github.com/pkg/errors"
-	"orders/internal/application/command"
-	"orders/internal/application/query"
-	"orders/internal/domain/entity"
+	"github/braip.com/internal/application/command"
+	"github/braip.com/internal/application/query"
+	"github/braip.com/internal/domain/entity"
 )
 
 type OrderService struct {
